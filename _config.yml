@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Michael Jacobs - data & statistics consultant
-email: 
+email: michaeljamesjacobs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -80,7 +80,7 @@ footer:
       icon: "fab fa-fw fa-envelope-square"
       url: "mailto:michaeljamesjacobs@gmail.com"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/mjacobs2/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
