@@ -61,9 +61,8 @@ author:
   name   : "Michael Jacobs"
   avatar : "/assets/images/pic_mj.png"
   bio    : "Because without data you are just another person with an opinion"
+  location : "Barcelona, ES"
   links:
-    - label: "Barcelona, ES"
-      icon: "fas fa-fw fa-map-marker-alt"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:michaeljamesjacobs@gmail.com"
