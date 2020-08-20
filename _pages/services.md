@@ -1,6 +1,5 @@
 ---
 permalink: /services/
-layout: services
 title: "Services"
 ---
 
