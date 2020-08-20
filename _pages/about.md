@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a seasoned statistician and experienced data professional, with more than 20 years of experience, encompassing the UK Civil Service, the Financial Times, the United Nations and the OECD. Since January 2020 I have been working as an independent consultant from my base in Barcelona, with a focus on official statistics, international comparisons and the efficient processing and analysis of data. In short, I enjoy interpreting statistics and data to tell stories, to help decision makers and to solve real world problems. I am particularly interested in the effective use of data visualisations to inform public opinion, as well as the use of automated data collections from online sources in official statistics.
+
