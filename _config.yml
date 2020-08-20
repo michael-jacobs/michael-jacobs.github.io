@@ -63,7 +63,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:michaeljamesjacobs@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
@@ -77,7 +77,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:michaeljamesjacobs@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
