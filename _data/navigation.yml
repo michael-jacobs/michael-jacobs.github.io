@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Services"
     url: /services/
-  - title: "Recent projects"
-    url: /recent_projects/
+  #- title: "Recent projects"
+  # url: /recent_projects/
   - title: "Blog"
     url: /posts/
 
