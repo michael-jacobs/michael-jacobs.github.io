@@ -10,19 +10,19 @@ tags:
 I work with organisations looking to gather and exploit new or existing data to provide actionable insights to decision makers. 
 Services provided include: 
 
-**DATA PROCESSING, AUTOMATION & ANALYSIS** 
+**DATA PROCESSING, AUTOMATION & ANALYSIS**   
 From compiling and merging data from disparate sources, to working with very large data sets, I design processes to enable automation of data cleaning, aggregation and analysis.
 {: .notice--info}
 
-**REPORTING & VISUALISATION**
-* Drafting of data rich analytical texts and presentations, adapted to meet the needs of the target audience to effectively communicate key findings
-* Creation of both static and interactive data visualisations.   
+**REPORTING & VISUALISATION**  
+Drafting of data rich analytical texts and presentations, adapted to meet the needs of the target audience to effectively communicate key findings  
+Creation of both static and interactive data visualisations.   
 {: .notice--info}
 
 **STATISTICAL FRAMEWORKS & CONCEPTUALISATION** – 
 {: .notice--info}
 
-**ONLINE SURVEY DESIGN & ADMINISTRATION** 
+**ONLINE SURVEY DESIGN & ADMINISTRATION**  
 Want to find out the opinions of your staff or customers? Interested in conducting a survey of households? I can  design, implement and analyse web-based questionnaires, from drafting of the questions to reporting on the results, and everything in between.
 {: .notice--info}
 
