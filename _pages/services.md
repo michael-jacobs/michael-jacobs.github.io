@@ -2,8 +2,6 @@
 permalink: /services/
 sitemap: true
 title: "Services"
-tags:
-  - services
 ---
 
 
@@ -15,15 +13,16 @@ From compiling and merging data from disparate sources, to working with very lar
 {: .notice--info}
 
 **REPORTING & VISUALISATION**  
-Drafting of data rich analytical texts and presentations, adapted to meet the needs of the target audience to effectively communicate key findings  
+Drafting of data rich analytical texts and presentations, adapted to meet the needs of the target audience to effectively communicate key findings.  
 Creation of both static and interactive data visualisations.   
 {: .notice--info}
 
-**STATISTICAL FRAMEWORKS & CONCEPTUALISATION** – 
+**STATISTICAL FRAMEWORKS & CONCEPTUALISATION**  
+I have a range of experience of dealing with official statistical frameworks and concepts and can advise on the coherence of data with reference to required standards and definitions. I can also assist with the design of new statistical indicators and KPIs to monitor the things your oganisation wants to measure. 
 {: .notice--info}
 
 **ONLINE SURVEY DESIGN & ADMINISTRATION**  
-Want to find out the opinions of your staff or customers? Interested in conducting a survey of households? I can  design, implement and analyse web-based questionnaires, from drafting of the questions to reporting on the results, and everything in between.
+Want to find out the opinions of your staff or customers? Interested in conducting a survey of households? I can  design, implement and analyse web-based questionnaires, from drafting of the questions, to reporting on the results, and everything in between.
 {: .notice--info}
 
 **WEB SCRAPING**
