@@ -16,7 +16,7 @@ Services provided include:
 *	**REPORTING & VISUALISATION** – drafting of data rich analytical texts and presentations, adapted to meet the specific needs of the targeted audience to effectively communicate key findings, as well as creation of both static and interactive data visualisations.   
 {: .notice--info}
 
-* **STATISTICAL FRAMEWORKS & CONCEPTUALISATION – 
+* **STATISTICAL FRAMEWORKS & CONCEPTUALISATION** – 
 {: .notice--info}
 
 * **ONLINE SURVEY DESIGN & ADMINISTRATION** – want to find out the opinions of your staff or customers? Interested in conducting a survey of households? I can  design, implement and analyse web-based questionnaires, from drafting of the questions to reporting on the results, and everything in between.
