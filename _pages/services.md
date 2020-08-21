@@ -13,20 +13,22 @@ From compiling and merging data from disparate sources, to working with very lar
 {: .notice--info}
 
 **REPORTING & VISUALISATION**  
-Drafting of data rich analytical texts and presentations, adapted to meet the needs of the target audience to effectively communicate key findings.  
-Creation of both static and interactive data visualisations.   
+I can support the dissemination of your results, drafting data-rich analytical texts and presentations to communicate key findings effectively to your target audience, including the reation of both static and interactive data visualisations.   
 {: .notice--info}
 
 **STATISTICAL FRAMEWORKS & CONCEPTUALISATION**  
 I have a range of experience of dealing with official statistical frameworks and concepts and can advise on the coherence of data with reference to required standards and definitions. I also design new statistical indicators and KPIs enabling organisation to monitor the things they need to measure. 
 {: .notice--info}
 
+**WEB SCRAPING**  
+
+{: .notice--info}
+
 **ONLINE SURVEY DESIGN & ADMINISTRATION**  
 Want to find out the opinions of your staff or customers? Interested in conducting a survey of households? I can  design, implement and analyse web-based questionnaires, from drafting of the questions, to reporting on the results, and everything in between.
 {: .notice--info}
 
-**WEB SCRAPING**
-{: .notice--info}
+
 
 **HR ANALYTICS**  
 Is your organisation competitive in terms of staff remuneration? I can assist with salary benchmarking studies to help you find out. I also have in-depth expertise in the field of cost of living analysis, specifically in relation to the setting and adjustment of salaries.
