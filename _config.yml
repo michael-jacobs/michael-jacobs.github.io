@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michael Jacobs"
+  name   : 
   avatar : "/assets/images/pic_mj.png"
   bio    : "Because without data you are just another person with an opinion"
   location : "Barcelona, ES"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:michaeljamesjacobs@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
