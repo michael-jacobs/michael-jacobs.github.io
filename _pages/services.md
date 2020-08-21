@@ -18,7 +18,7 @@ Creation of both static and interactive data visualisations.
 {: .notice--info}
 
 **STATISTICAL FRAMEWORKS & CONCEPTUALISATION**  
-I have a range of experience of dealing with official statistical frameworks and concepts and can advise on the coherence of data with reference to required standards and definitions. I can also assist with the design of new statistical indicators and KPIs to monitor the things your oganisation wants to measure. 
+I have a range of experience of dealing with official statistical frameworks and concepts and can advise on the coherence of data with reference to required standards and definitions. I also design new statistical indicators and KPIs enabling organisation to monitor the things they need to measure. 
 {: .notice--info}
 
 **ONLINE SURVEY DESIGN & ADMINISTRATION**  
