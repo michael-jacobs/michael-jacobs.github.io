@@ -60,7 +60,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/pic_mj.png"
-  bio    : "Because without data you are just another person with an opinion"
+  bio    : "Using data to tell stories, help decision makers and solve real world problems"
   location : "Barcelona, ES"
   links:
     - label: "Email"
