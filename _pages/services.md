@@ -33,6 +33,6 @@ Is your organisation competitive in terms of staff remuneration? I can assist wi
 {: .notice--info}
 
 **SPECIALIST ADVICE & EXPERTISE**  
-I also collaborate with other consultants as a specialist, working on larger-scale statistical projects, in particular at the international level.
+I also collaborate with other consultants as a specialist, working on large-scale statistical projects, in particular at the international level.
 {: .notice--info}
 
