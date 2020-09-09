@@ -12,12 +12,12 @@ excerpt: Independent consultant, specialised it the   <br>efficient analysis and
 
 feature_row:
   - title: "Experience"
-    excerpt: "Combining technical know-how with a rigourous, professional approach, your data is in safe hands."
+    excerpt: "Combining technical know-how with a rigourous, professional approach, your data is in safe hands.  <br>"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Services"
-    excerpt: "I  provide a range of statistical and data processing services, generating new insights to enable informed decision making."
+    excerpt: "I  provide a range of statistical and data processing services, generating new insights to enable informed decision making.  <br>"
     url: "/services"
     btn_class: "btn--primary"
     btn_label: "Learn more"
