@@ -1,5 +1,5 @@
 ---
-title: Statistics | Data | Consultant
+title: "Statistics | Data | Consultant"
 layout: splash
 permalink: /
 hidden: true
