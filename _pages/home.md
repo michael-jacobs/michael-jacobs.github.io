@@ -1,5 +1,5 @@
 ---
-title: "Statistics | Data | Consultant"
+title: "Data & Statistics Consultant"
 layout: splash
 permalink: /
 hidden: true
@@ -8,7 +8,7 @@ header:
   overlay_color: "#800000"
   overlay_image: /assets/images/
 
-excerpt: Statistics data hello.
+excerpt: 
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
