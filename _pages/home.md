@@ -6,7 +6,7 @@ hidden: true
 author_profile: false
 header:
   overlay_image: /assets/levi-midnight-8KvHQzpHyKQ-unsplash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com/@levi-midnight)"   
+  caption: "Photo credit: [**Levi Midnight**](https://unsplash.com/@levi_midnight)"   
 
 excerpt: Independent consultant, focused on the analysis and interpretation of data and statistical information.
 
