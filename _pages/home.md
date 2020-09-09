@@ -1,5 +1,5 @@
 ---
-title: "Michael Jacobs | Data | Statistics"
+title: "Michael Jacobs \| Data \| Statistics"
 layout: splash
 permalink: /
 hidden: true
