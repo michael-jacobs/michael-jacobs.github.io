@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+author_profile: false
 header:
   overlay_color: "#85B0BE"
   overlay_image: /assets/images/
