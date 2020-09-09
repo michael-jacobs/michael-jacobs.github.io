@@ -5,8 +5,8 @@ permalink: /
 hidden: true
 author_profile: false
 header:
-  overlay_image: /assets/images/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com/@nasa)"   
+  overlay_image: /assets/levi-midnight-8KvHQzpHyKQ-unsplash.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/@levi-midnight)"   
 
 excerpt: Independent consultant, focused on the analysis and interpretation of data and statistical information.
 
