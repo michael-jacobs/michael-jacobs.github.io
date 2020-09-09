@@ -1,5 +1,5 @@
 ---
-title: "Data & Statistics Consultant"
+title: "Michael Jacobs: Data & Statistics Consultant"
 layout: splash
 permalink: /
 hidden: true
@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/@nasa)"   
 
-excerpt: I am an independent consultant, focused on the analysis and interpretation of data and statistical information.
+excerpt: Independent consultant, focused on the analysis and interpretation of data and statistical information.
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
