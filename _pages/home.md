@@ -8,6 +8,7 @@ header:
   overlay_color: "#800000"
   overlay_image: /assets/images/
 
+excerpt: Statistics data hello.
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
