@@ -1,5 +1,5 @@
 ---
-permalink: /services/
+permalink: /
 sitemap: true
 title: "Services"
 ---
