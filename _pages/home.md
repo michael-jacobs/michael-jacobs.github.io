@@ -5,7 +5,6 @@ permalink: /
 hidden: true
 author_profile: false
 header:
-  overlay_color: "#800000"
   overlay_image: /assets/images/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/@nasa)"   
 
