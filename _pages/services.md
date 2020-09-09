@@ -34,4 +34,4 @@ Is your organisation competitive in terms of staff remuneration? I can assist wi
 I welcome the opportunity to collaborate with other consultants in the field of official statstics. Working as a specialist I contribute to large-scale statistical projects, in particular at the international level.
 {: .notice--info}
 
-Please contact me [contact me](mailto:michaeljamesjacobs@gmail.com) for further details regarding my rates and availability. 
+Please [contact me](mailto:michaeljamesjacobs@gmail.com) directly for further details regarding my rates and availability. 
