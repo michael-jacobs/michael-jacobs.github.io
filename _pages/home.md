@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Projects"
-    excerpt: "Find examples of work on my blog, featuring of projects I have recently undertaken as well as some data visualsiations."
+    excerpt: "Find examples of my work on my blog, featuring projects I have recently undertaken as well as some data visualsiations."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
