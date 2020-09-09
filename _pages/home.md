@@ -1,5 +1,5 @@
 ---
-title: "Michael Jacobs: Data & Statistics Consultant"
+title: "Data & Statistics Consultant"
 layout: splash
 permalink: /
 hidden: true
@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/levi-midnight-8KvHQzpHyKQ-unsplash.jpg
   caption: "Photo credit: [**Levi Midnight**](https://unsplash.com/@levi_midnight)"   
 
-excerpt: Independent consultant, focused on the analysis and interpretation of data and statistical information.
+excerpt: An Independent consultant, focused on the efficient analysis and interpretation of data.
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
