@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#0398fc"
+  overlay_color: "#85B0BE"
   overlay_image: /assets/images/
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
@@ -35,4 +35,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
+
