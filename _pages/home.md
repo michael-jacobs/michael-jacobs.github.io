@@ -1,5 +1,5 @@
 ---
-title: testing
+title: Statistics | Data | Consultant
 layout: splash
 permalink: /
 hidden: true
