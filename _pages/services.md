@@ -4,7 +4,7 @@ title: "Services"
 ---
 
 
-I work with organisations looking to gather and exploit new or existing data to provide actionable insights to decision makers. 
+I work with organisations who want to gather and exploit new or existing data to provide actionable insights to decision makers. 
 Services provided include: 
 
 **DATA PROCESSING, AUTOMATION & ANALYSIS**   
@@ -12,11 +12,11 @@ From compiling and merging data from disparate sources, to working with very big
 {: .notice--info}
 
 **REPORTING & VISUALISATION**  
-I can support the dissemination of your results, drafting data-rich analytical texts and presentations to communicate key findings effectively to your target audience, including the creation of both static and interactive data visualisations.   
+I can support the dissemination of your results, drafting data-rich analytical texts and presentations to communicate key findings effectively to your desired target audience, including the creation of both static and interactive data visualisations.   
 {: .notice--info}
 
 **STATISTICAL FRAMEWORKS & CONCEPTUALISATION**  
-I have a range of experience of dealing with official statistical frameworks and concepts and can advise on the coherence of your data with reference to required standards and definitions. I also design new statistical indicators and KPIs, enabling organisations to measure and monitor the things that matter. 
+I have a range of experience dealing with official statistical frameworks and concepts and can advise on the coherence of your data with reference to required standards and definitions. I also design new statistical indicators and KPIs, enabling organisations to measure and monitor the things that matter. 
 {: .notice--info}
 
 **WEB SCRAPING**    
