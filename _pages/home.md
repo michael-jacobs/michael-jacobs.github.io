@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#0398fc"
-  overlay_image: /assets/images/bio-photo.jpg
+  overlay_image: /assets/images/
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
