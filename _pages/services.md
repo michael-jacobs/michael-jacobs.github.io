@@ -1,6 +1,5 @@
 ---
 permalink: /services/
-sitemap: true
 title: "Services"
 ---
 
