@@ -1,4 +1,5 @@
 ---
+title: testing
 layout: splash
 permalink: /
 hidden: true
