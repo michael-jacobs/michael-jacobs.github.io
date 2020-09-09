@@ -4,8 +4,7 @@ title: "Services"
 ---
 
 
-I work with organisations who want to gather and exploit new or existing data to provide actionable insights to decision makers. 
-Services provided include: 
+I work with organisations to gather and exploit new or existing data to provide actionable insights to decision makers. Services provided include: 
 
 **DATA PROCESSING, AUTOMATION & ANALYSIS**   
 From compiling and merging data from disparate sources, to working with very big data sets, I design and implement processes to enable the automation of data cleaning, aggregation and interogation.
@@ -35,3 +34,4 @@ Is your organisation competitive in terms of staff remuneration? I can assist wi
 I welcome the opportunity to collaborate with other consultants in the field of official statstics. Working as a specialist I contribute to large-scale statistical projects, in particular at the international level.
 {: .notice--info}
 
+Please contact me [contact me](mailto:michaeljamesjacobs@gmail.com) for further details regarding my rates and availability. 
