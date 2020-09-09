@@ -1,5 +1,5 @@
 ---
-title: "Data & Statistics Consultant"
+title: "Michael Jacobs | Data | Statistics"
 layout: splash
 permalink: /
 hidden: true
