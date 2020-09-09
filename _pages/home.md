@@ -8,7 +8,6 @@ header:
   overlay_color: "#800000"
   overlay_image: /assets/images/
 
-  An experienced statistician and data professional.<br />
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
