@@ -8,7 +8,8 @@ author_profile: true
 
 
 ---
-# ABOUT
+# About
+
 
 I am a seasoned statistician and data professional, with close to 20 years of experience, encompassing the UK Civil Service, the Financial Times, the United Nations and the OECD. Since January 2020 I have been working as an independent consultant from Barcelona, with a focus on official statistics, international comparisons and the efficient processing and analysis of data. 
 
