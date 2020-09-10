@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michael Jacobs"
+  name   : 
   avatar : "/assets/images/pic_mj.png"
-  bio    : "Using data to tell stories, help decision makers and solve real world problems"
+  bio    : 
   location : "Barcelona, ES"
   links:
     - label: "Email"
