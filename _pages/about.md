@@ -3,7 +3,8 @@ layout: single
 permalink: /about/
 title: "About"
 header: 
-overlay_image: /assets/images/levi-midnight-logo.jpg
+   overlay_image: assets/images/levi-midnight-logo.jpg
+   
 ---
 
 
