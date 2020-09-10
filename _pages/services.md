@@ -1,12 +1,11 @@
 ---
 permalink: /services/
-title: "Services"
 title: "Michael Jacobs  <br>Data & Statistics"
 header: 
    overlay_image: assets/images/levi-midnight-logo.jpg
 author_profile: true
 ---
-# SERVICES
+# Services
 
 I work with organisations to gather and exploit new or existing data to provide actionable insights to decision makers. Services provided include: 
 
