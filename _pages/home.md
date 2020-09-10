@@ -5,10 +5,10 @@ permalink: /
 hidden: true
 author_profile: false
 header:
-  overlay_image: /assets/images/levi-midnight-0wuDOhdQ1cg-unsplash.jpg
+  overlay_image: /assets/images/levi-midnight-logo.jpg
   caption: "Photo credit: [**Levi Midnight**](https://unsplash.com/@levi_midnight)"   
 
-excerpt: Independent consultant, specialised it the   <br>efficient analysis and interpretation of data.
+excerpt: Independent consultant, specialised in the   <br>efficient analysis and interpretation of data.
 
 feature_row:
   - title: "Experience"
