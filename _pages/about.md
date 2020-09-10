@@ -1,12 +1,13 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
+title: "Michael Jacobs  <br>Data & Statistics"
 header: 
    overlay_image: assets/images/levi-midnight-logo.jpg
    
 ---
 
+##ABOUT##
 
 I am a seasoned statistician and data professional, with close to 20 years of experience, encompassing the UK Civil Service, the Financial Times, the United Nations and the OECD. Since January 2020 I have been working as an independent consultant from Barcelona, with a focus on official statistics, international comparisons and the efficient processing and analysis of data. 
 
