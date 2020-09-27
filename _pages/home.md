@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Learn more"
   - title: "Trusted"
     excerpt: "See some examples of projects I have recently undertaken and hear what clients have to say about my work."
-    url: "/posts/"
+    url: "/recent_projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
