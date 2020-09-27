@@ -1,7 +1,7 @@
 ---
 title: "Recent projects"
 permalink: /recent_projects/
-layout: tags
+layout: single
 author_profile: true
 ---
 
