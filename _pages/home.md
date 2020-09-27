@@ -12,7 +12,7 @@ excerpt: Independent consultant, specialised in the   <br>efficient analysis and
 
 feature_row:
   - title: "Experienced"
-    excerpt: "Combining technical know-how with a rigourous, professional approach, your data is in safe hands.  <br>"
+    excerpt: "Combining technical know-how with a rigourous, professional approach, your data are in safe hands.  <br>"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Trusted"
-    excerpt: "Find examples of my work on my blog, including projects I have recently undertaken as well as some data visualsiations."
+    excerpt: "See some examples of projects I have recently undertaken and hear what clients have to say about my work."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
