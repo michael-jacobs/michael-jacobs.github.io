@@ -6,9 +6,9 @@ hidden: true
 author_profile: false
 header:
   overlay_image: /assets/images/levi-midnight-logo.jpg
-  caption: "[**Levi Midnight**](https://unsplash.com/@levi_midnight)"   
 
-excerpt: Independent consultant, specialised in the   <br>efficient analysis and interpretation of data.
+
+excerpt: Independent consultant, specialised in the   <br>efficient analysis and interpretation of data
 
 feature_row:
   - title: "Experienced"
@@ -21,7 +21,7 @@ feature_row:
     url: "/services"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - title: "Trusted"
+  - title: "Reliable"
     excerpt: "See some examples of projects I have recently undertaken and hear what clients have to say about my work."
     url: "/recent_projects/"
     btn_class: "btn--primary"
