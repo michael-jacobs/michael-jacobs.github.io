@@ -7,7 +7,7 @@ author_profile: true
 layout: single
 ---
 
-If you would like to discuss a possible colaboration please complete the form below and I will get back to you.
+If you would like to discuss a possible collaboration please complete the form below and I will get back to you.
 
 
 <form
