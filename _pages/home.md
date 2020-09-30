@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Flexible"
-    excerpt: "I  provide a range of statistical and data processing services, generating new insights to enable informed decision making.  <br>"
+    excerpt: "I  provide a range of statistical and data analysis services, generating new insights to enable informed decision making.  <br>"
     url: "/services"
     btn_class: "btn--primary"
     btn_label: "Learn more"
