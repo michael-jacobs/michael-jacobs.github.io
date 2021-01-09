@@ -3,7 +3,7 @@ permalink: /recent_projects/
 title: "Michael Jacobs  <br>Data & Statistics"
 header: 
    overlay_image: assets/images/levi-midnight-logo.jpg
-author_profile: true
+author_profile: false
 layout: single
 ---
 
