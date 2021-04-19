@@ -18,8 +18,6 @@ Alternatively, the [RAMON database](https://ec.europa.eu/eurostat/ramon/nomencla
 ```r
 ## Load required libraries##
 library(eurostat)
-library(dplyr)
-
 
 ## Download full list of available data##
 toc <- get_eurostat_toc()
