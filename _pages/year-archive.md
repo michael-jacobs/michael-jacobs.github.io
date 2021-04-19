@@ -9,6 +9,6 @@ author_profile: false
 # Blog
 
 
-This page provides some examples of my work, with a focus on recent projects and data visualisation.
+This blog covers a range of topics, with a focus on data visualisation and the use of data from online sources.
 
 Posts by year: 
