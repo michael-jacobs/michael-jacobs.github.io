@@ -8,9 +8,9 @@ tags:
   - R
 ---
 
-This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating a thought-provoking data visualisation. In this instalment I am working with Economic data that can be accessed directly from Eurostat website via its [API](https://ec.europa.eu/eurostat/online-help/public/en/API_06_DataQuery_en/), with the intention of shedding some light on the economic impact of the COVID19 pandemic to date. 
+This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating a thought-provoking data visualisation.  
 
-As the Statistical office of the European Commission, Eurostat is responsible for gathering comparable data from European Union member states in a variety of statistical domains, meaning the API is a rich source of free data and information. In some cases data for non/EU countries are also available for comparison purposes, including Japan, the United Kingdom* and the United States in the case of the economic indicators used in the following example.  
+In this instalment I am working with Economic data that can be accessed directly from Eurostat website via its [API](https://ec.europa.eu/eurostat/online-help/public/en/API_06_DataQuery_en/), with the intention of shedding some light on the economic impact of the COVID19 pandemic to date. As the Statistical office of the European Commission, Eurostat is responsible for gathering comparable data from European Union member states in a variety of statistical domains, meaning the API is a rich source of free data and information. In some cases data for non-EU countries are also available for comparison purposes, including Japan, the United Kingdom<sup>[*](#myfootnote)</sup> and the United States in the case of the economic indicators used in the following example.  
 
 In this post I will explain briefly the process for accessing the data from the API (using R), before moving on to the Shiny application and conclusions from the resulting analysis in a follow up blog. Thankfully, extracting the data is relatively straight forward, thanks to the [Eurostat package](http://ropengov.github.io/eurostat/articles/website/eurostat_tutorial.html). Having initialised the package in R, a full list of contents of the API - including codes and related descriptions - can be downloaded, as detailed in the script below.  
 
@@ -75,3 +75,5 @@ data$geo <-gsub("Germany \\(until 1990 former territory of the FRG\\)","Germany"
 data$geo <-gsub("European Union - 27 countries \\(from 2020\\)","EU27",data$geo)
 
 ```
+
+<a name="myfootnote">*</a>: Data are no longer formally provided to Eurostat by the UK, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1). Further updating of information for the UK is subject to agreement on areas for future statistical cooperation. 
