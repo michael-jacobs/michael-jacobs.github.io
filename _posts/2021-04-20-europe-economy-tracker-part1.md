@@ -3,8 +3,6 @@ title: "European Economic Indicators - accessing data from the Eurostat API"
 
 tags:
   - API
-  - Shiny
-  - Data Visualisation
   - R
 ---
 
@@ -15,8 +13,7 @@ In this instalment I am working with Economic data that can be accessed directly
 In this post I will explain briefly the process for accessing the data from the API (using R), before moving on to the Shiny application and conclusions from the resulting analysis in a follow up blog. Thankfully, extracting the data is relatively straight forward, thanks to the [Eurostat package](http://ropengov.github.io/eurostat/articles/website/eurostat_tutorial.html). Having initialised the package in R, a full list of contents of the API - including codes and related descriptions - can be downloaded, as detailed in the script below.  
 
 The resulting table of contents **(toc)** details the catalogue of datasets available from the API - you can review and filter to identify the data sets of interest. 
-Alternatively, the [RAMON database](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=SCL&StrLanguageCode=EN) is available and  
-searchable online, to assist with identifying the code(s) required for downloading of the data of interest.
+Alternatively, the [RAMON database](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=SCL&StrLanguageCode=EN) is available and searchable online, to assist with identifying the code(s) required for downloading of the data of interest.
 
 ```r
 ## Load required libraries##
@@ -76,4 +73,5 @@ data$geo <-gsub("European Union - 27 countries \\(from 2020\\)","EU27",data$geo)
 
 ```
 
-<a name="myfootnote">*</a>: Data are no longer formally provided to Eurostat by the UK, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1). Further updating of information for the UK is subject to agreement on areas for future statistical cooperation. 
+
+<a name="myfootnote">*</a>*Data are no longer formally provided to Eurostat by the UK, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1). Further updating of information for the UK is subject to agreement on areas for future statistical cooperation.*
