@@ -8,7 +8,7 @@ tags:
 I use this page to keep links to useful resources and examples from others related to R programming (mostly Shiny ), data visualisation and other data and official statistics related stuff.
 
 **R Studio Cheatsheets** 
-[https://www.rstudio.com/resources/cheatsheets/]
+<https://www.rstudio.com/resources/cheatsheets/>
 
 Includes handy reminders for a range of R libaries, including [Shiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) and [Ggplot2](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
