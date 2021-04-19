@@ -1,5 +1,5 @@
 ---
-title: "European Economic Indicators - tracking the impact of COVID19"
+title: "European Economic Indicators - accessing data from the Eurostat API"
 
 tags:
   - API
@@ -8,19 +8,11 @@ tags:
   - R
 ---
 
-This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating a thought-provoking data visualisation.  
+This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating a thought-provoking data visualisation.  In this instalment I am working with Economic data that can be accessed directly from Eurostat website via its API, with the overall aim of shedding some light on the economic impact of the COVID19 pandemic to date. 
 
+As the Statistical office of the European Commission Eurostat is responsible for gathering comparable data from European member states in a variety of policy areas, meaning the API is a rich source of data and information. Data for non/EU countries are also available for comparison purposes, including Japan, the United Kingdom* and the United States in the case of the economic indicators used in the following example.  
 
-In this first instalment I am working with Economic data that can be accessed directly from Eurostat website via its API, with the overall aim of shedding 
-some light on the economic impact of the COVID19 pandemic to date. As the Statistical office of the European Commission Eurostat is responsible for gathering 
-comparable data from European member states in a variety of policy areas, meaning the API is a rich source of data and information. Data for non/EU countries 
-are also available for comparison purposes, including Japan, the United Kingdom* and the United States in the case of the economic indicators used in the following example.
-
-Accessing the data
-
-Firstly, I will explain briefly the process for accessing the data from the API (using R), before moving on to the Shiny application itself and some of the conclusions 
-from the analysis. Thankfully, extracting the data is relatively straight forward, thanks to the Eurostat package. Having loaded the package, a full list of codes and
-related descriptions can be downloaded. 
+In this post I will explain briefly the process for accessing the data from the API (using R), before moving on to the Shiny application and conclusions from the resulting analysis. Thankfully, extracting the data is relatively straight forward, thanks to the [Eurostat package](http://ropengov.github.io/eurostat/articles/website/eurostat_tutorial.html). Having loaded the package, a full list of codes and related descriptions can be downloaded. 
 
 ```r
 ## Load required libraries##
@@ -69,6 +61,5 @@ for(i in 1:length(codes)){
   write.csv(tmp, paste(codes$code[i],".csv", sep = ""))
 }
 ```
-**To note** – the dimensions included in the different datasets may differ, meaning some cleaning or re-shaping of the data will be required if you intend to create one large data table. 
-Be sure also to consider the format of the date fields when creating your main data.
+**To note** – the dimensions included in the different datasets may differ, meaning some cleaning or re-shaping of the data will be required if you intend to create one large data table combining each of the . Be sure also to consider the format of the date fields when creating your main data table to save headaches later on.
 
