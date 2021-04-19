@@ -7,17 +7,17 @@ tags:
 
 I use this page to keep links to useful resources and examples from others related to R programming (mostly Shiny ), data visualisation and other data and official statistics related stuff.
 
-**R Studio Cheatsheets**: 
+**R Studio Cheatsheets** 
 [https://www.rstudio.com/resources/cheatsheets/]
 
 Includes handy reminders for a range of R libaries, including [Shiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) and [Ggplot2](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
-**Mastering Shiny**: 
+**Mastering Shiny** 
 https://mastering-shiny.org/index.html
 
 Online version of Hadley Wickham's excellent book on all things Shiny.
 
-**R-Studio blog**: 
+**R-Studio blog** 
 [https://blog.rstudio.com/2021/02/12/shiny-app-stories/]
 
 [https://blog.rstudio.com/2020/07/21/4-tips-to-make-your-shiny-dashboard-faster/]
