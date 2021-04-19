@@ -55,7 +55,7 @@ write.csv(tmp, paste(codes$code[i],".csv", sep = ""))
 }
 ```
 
-**To note** – the dimensions included in the different datasets may differ, meaning some re-shaping of the data will be required if you intend to create one large data table combining each of the seperate data sources. Be sure also to consider the format of the date fields when creating your main data table to save headaches later on. Finally, some of the datasets can be large, so give some thought to the precise data you need before you start downloading. The Eurostat package can limit the slice of data you pick up, for example by narrowing down the period of time covered by the - more details on how to do this are availale here: [Eurostat package.](http://ropengov.github.io/eurostat/articles/website/eurostat_tutorial.html)  
+**To note** – the dimensions included in the different datasets may differ, meaning some re-shaping of the data will be required if you intend to create one large data table combining each of the seperate data sources. Be sure also to consider the format of the date fields when creating your main data table to save headaches later on. Finally, some of the datasets can be large, so give some thought to the precise data you need before you start downloading. The Eurostat package can limit the slice of data you pick up, for example by narrowing down the reference period - more details on how to do this are availale here: [Eurostat package.](http://ropengov.github.io/eurostat/articles/website/eurostat_tutorial.html)  
 
 In order to make the data easier to use for visualisation purposes some additional reformatting was also required, as detailed in the R-script below. 
 
