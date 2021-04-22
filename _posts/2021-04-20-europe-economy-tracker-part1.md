@@ -72,4 +72,4 @@ data$geo <-gsub("European Union - 27 countries \\(from 2020\\)","EU27",data$geo)
 Now the data are prepared, it's time to start working on the visualisation, details of which I will post shortly.
     
       
-<a name="myfootnote">*</a>_Data are no longer formally required to be provided to Eurostat by the UK, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1). 
+<a name="myfootnote">*</a>_The UK is no longerformally required to provide data to Eurostat, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1) at the end of 2020.
