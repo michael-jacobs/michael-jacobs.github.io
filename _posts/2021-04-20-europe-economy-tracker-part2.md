@@ -1,5 +1,5 @@
 ---
-title: "European Economic Indicators - accessing data from the Eurostat API"
+title: "European Economic Indicators - tracking the impact of COVID19"
 
 tags:
   - Shiny
@@ -11,7 +11,8 @@ tags:
 To illustrate both the current and future impact of the COVID19 pandemic on Europe’s economy I have created an online dashboard to retrieve and analyse the latest available 
 economic data for the region. The application, which uses the R library Shiny, retrieves the latest available data on a weekly basis and includes a series of interactive charts 
 and graphics - follow the link below to starting playing with the different comparisons:  
-https://mjacobsdata.shinyapps.io/europe-economy-covid/
+  
+[https://mjacobsdata.shinyapps.io/europe-economy-covid/](https://mjacobsdata.shinyapps.io/europe-economy-covid/)
 
 Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/europe-economy-tracker-part1/), the dashboard focuses on three key economic indicators:
 
@@ -19,11 +20,9 @@ Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/eur
    **2. Inflation**  
    **3. GDP**    
   
-The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular 
-with reference to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the
-COVID19 pandemic, the screen shots provided below give an idea of some of the main the findings from the visualisations.
+The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with reference to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, the screen shots provided below give an idea of some of the main the findings from the visualisations.
 
-***Unemployment has increased following the pandemic, but levels generally remain below the those seen during the last recession**  
+***Unemployment has increased following the pandemic, but levels generally remain below the those seen during the last recession***  
 
 ![Unemployment rate over time](assets/images/mjacobsdata_unemployment1.PNG)
 
