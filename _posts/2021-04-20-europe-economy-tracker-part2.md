@@ -24,7 +24,7 @@ The dashboard aims at visualising the changes in these three main areas since th
 
 ***Unemployment has increased following the pandemic, but levels generally remain below the those seen during the last recession***  
 
-![Unemployment rate over time](assets/images/mjacobsdata_unemployment1.PNG)
+![Unemployment rate over time](https://github.com/michael-jacobs/michael-jacobs.github.io/blob/master/assets/images/mjacobsdata_unemployment1.PNG)
 
 ***The increase in unemployment since early 2020 has affected different groups in different ways, with under 25 year olds being particularly affected. Across the EU27 
 unemployment rates went up most for under 25 year old females***
