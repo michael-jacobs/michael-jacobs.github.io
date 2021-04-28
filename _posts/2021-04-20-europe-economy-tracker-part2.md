@@ -19,22 +19,23 @@ Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/eur
    **2. Inflation rates** based on the [Harmonised Index of Consumper prices](https://ec.europa.eu/eurostat/web/hicp), as well as the related expenditure weights.  
    **3. Gross Domestic Product (GDP)** a widely used measure of output and economic activity.       
   
-The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with reference to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, the screen shots provided below give an idea of some of the main the findings from the visualisations.
+The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with in relation to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, below are some of the main trends highlgihted by the visualisations.
 
-***Unemployment has increased following the pandemic, but levels generally remain below the peak recorded during the last recession***  
+<div class="text-blue">
+*Unemployment has increased following the pandemic, but levels generally remain below the peak recorded during the last recession*    
 
 ![Unemployment rate over time](/assets/images/mjacobsdata_unemployment1.PNG)
 
-***The increase in unemployment since early 2020 is not uniform by demographic groups, with rates for under 25 year olds increasing more that for older workers. Taking EU27 countries as a whole, unemployment rates went up most for under 25 year old females***
+*The increase in unemployment since early 2020 is not uniform by demographic group, with rates for under 25 year olds increasing more than for older workers. Taking EU27 countries as a whole, unemployment rates went up most for under 25 year old females*  
 
 ![Unemployment rate disaggregated](/assets/images/mjacobsdata_unemployment2.PNG)
 
-***Household expenditure patterns have changed as lockdowns and restrictions on movement have meant the relative importance of spending on transport, restaurants, hotels and other recreation 
-and cultural activities has declined***   
+
+  *Household expenditure patterns have changed as lockdowns and restrictions on movement have meant the relative importance of spending on transport, restaurants, hotels and other recreation and cultural activities has declined*   
+
 
 ![Expenditure weights](/assets/images/mjacobsdata_expenditure.PNG)
 
-***The drop in economic output that started in the first quarter of 2020 was more abrupt than the decline that begin in 2008, but the bounce back has been quicker. Nonetheless, for now, output 
-remains below the levels seen in 2019***
-
+*The drop in economic output that started in the first quarter of 2020 was more abrupt than the decline that begin in 2008, but the bounce back has been quicker. Nonetheless, for now, output remains below the levels seen in 2019*  
+  </div>
 ![GDP index](/assets/images/mjacobsdata_gdp.PNG)
