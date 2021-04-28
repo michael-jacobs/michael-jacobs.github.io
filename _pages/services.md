@@ -30,7 +30,7 @@ Interested in the opinions of your staff or customers? Need to conduct a survey 
 {: .notice--info}
 
 **HR ANALYTICS**  
-Is your organisation competitive in terms of staff remuneration? I can assist with salary benchmarking studies to help answer this and other HR realted questions. I also have in-depth expertise in the field of cost of living analysis, specifically in relation to the setting and adjustment of salaries.
+Is your organisation competitive in terms of staff remuneration? I can assist with salary benchmarking studies to help answer this and other HR related questions. I also have in-depth expertise in the field of cost of living analysis, specifically in relation to the setting and adjustment of salaries.
 {: .notice--info}
 
 **SPECIALIST ADVICE & EXPERTISE**  
