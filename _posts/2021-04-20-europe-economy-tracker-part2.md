@@ -21,7 +21,7 @@ Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/eur
      
    **3. Gross Domestic Product (GDP)** a widely used measure of output and economic activity. 
      
-The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with in relation to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, below are some of the emerging trends highlgihted by the visualisations.
+The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular in relation to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, below are some of the emerging trends highlighted by the visualisations.
 
 
 > *Unemployment has increased following the pandemic, but levels generally remain below the peak recorded during the last recession*    
@@ -38,6 +38,6 @@ The dashboard aims at visualising the changes in these three main areas since th
 
 ![Expenditure weights](/assets/images/mjacobsdata_expenditure.PNG)
 
-> *The drop in economic output that started in the first quarter of 2020 was more abrupt than the decline that begin in 2008, but the bounce back has been quicker. Nonetheless, for now, output remains below the levels seen in 2019*  
+> *The drop in economic output that started in the first quarter of 2020 was more abrupt than the decline that began in 2008, but the bounce back has been quicker. Nonetheless, for now, output remains below the levels seen in 2019*  
 
 ![GDP index](/assets/images/mjacobsdata_gdp.PNG)
