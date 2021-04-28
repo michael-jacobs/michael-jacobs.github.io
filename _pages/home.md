@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/levi-midnight-logo.jpg
 
 
-excerpt: Independent consultant, specialised in the   <br>efficient analysis and interpretation of data
+excerpt: Independent consultant, specialised in the <br>efficient analysis and interpretation of data
 
 feature_row:
   - title: "Experienced"
