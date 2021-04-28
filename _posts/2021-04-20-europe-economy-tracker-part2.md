@@ -15,10 +15,12 @@ economic data for the region. The application, which uses the R library Shiny, d
 
 Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/europe-economy-tracker-part1/), the dashboard focuses on three key economic indicators:
 
-   **1. Unemployment rates**, including both total unemployment rates, as well as data disaggregated by age and gender.  
+   **1. Unemployment rates**, including both total unemployment rates, as well as data disaggregated by age and gender.
+     
    **2. Inflation rates** based on the [Harmonised Index of Consumper prices](https://ec.europa.eu/eurostat/web/hicp), as well as the related expenditure weights.  
-   **3. Gross Domestic Product (GDP)** a widely used measure of output and economic activity.       
-  
+     
+   **3. Gross Domestic Product (GDP)** a widely used measure of output and economic activity. 
+     
 The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with in relation to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, below are some of the main trends highlgihted by the visualisations.
 
 
