@@ -15,5 +15,5 @@ I am a seasoned statistician and data professional, with close to 20 years of ex
 
 In short, I enjoy interpreting statistics and data to tell stories, to help decision makers and to solve real world problems. I am particularly interested in the effective use of data visualisations to inform public opinion, as well as the use of automated data collections from online sources in official statistics.  
 
-![Experience](/assets/images/experience.PNG)
+![Experience](/assets/images/experience.png)
 
