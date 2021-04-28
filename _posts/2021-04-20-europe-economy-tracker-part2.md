@@ -21,12 +21,11 @@ Using data accessed from the [Eurostat API](https://michael-jacobs.github.io/eur
   
 The dashboard aims at visualising the changes in these three main areas since the start of 2020, but also to contextualise the changes with reference to past events (in particular with reference to the last major economic downturn, which began across Europe in 2008). While it remains too early to draw definitive conclusions about the overall impact of the COVID19 pandemic, the screen shots provided below give an idea of some of the main the findings from the visualisations.
 
-***Unemployment has increased following the pandemic, but levels generally remain below the those seen during the last recession***  
+***Unemployment has increased following the pandemic, but levels generally remain below the peak recorded during the last recession***  
 
-![Unemployment rate over time](/assets/images/mjacobsdata_unemployment1.PNG "Unemployment rate)
+![Unemployment rate over time](/assets/images/mjacobsdata_unemployment1.PNG)
 
-***The increase in unemployment since early 2020 has affected different groups in different ways, with under 25 year olds being particularly affected. Across the EU27 
-unemployment rates went up most for under 25 year old females***
+***The increase in unemployment since early 2020 is not uniform by demographic groups, with rates for under 25 year olds increasing more that for older workers. Taking EU27 countries as a whole, unemployment rates went up most for under 25 year old females***
 
 ![Unemployment rate disaggregated](/assets/images/mjacobsdata_unemployment2.PNG)
 
