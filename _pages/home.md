@@ -12,7 +12,7 @@ excerpt: Independent consultant, specialised in the <br>efficient analysis and i
 
 feature_row:
   - title: "Experienced"
-    excerpt: "Combining technical know-how with a rigourous, professional approach, your data are in safe hands.  <br>"
+    excerpt: "Combining technical know-how with a rigourous, professional approach, your data is in safe hands.  <br>"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
