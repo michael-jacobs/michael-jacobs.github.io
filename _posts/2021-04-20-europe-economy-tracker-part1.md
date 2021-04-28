@@ -6,7 +6,7 @@ tags:
   - R
 ---
 
-This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating a thought-provoking data visualisations and analysis.  
+This is the first of (hopefully!) many blog posts, where I explore data freely available online, with the aim of creating thought-provoking data visualisations and analysis.  
 
 In this instalment I am working with Economic data that can be accessed directly from Eurostat via its [API](https://ec.europa.eu/eurostat/online-help/public/en/API_06_DataQuery_en/). The idea is to better understand the economic impact of the COVID19 pandemic to date. As the Statistical office of the European Union, Eurostat is responsible for gathering comparable data from member states in a variety of statistical domains, meaning the API is a rich source of free data and information. In some cases data for non-EU countries are also available for comparison purposes, including Japan, the United Kingdom<sup>[*](#myfootnote)</sup> and the United States in the case of the economic indicators used in the following example.  
 
@@ -25,7 +25,7 @@ view(toc)
 
 ```
   
-For the data I want to analyse - related to unemployment, gross domestic product (GDP) and consumer prices (including associated expenditure weights) - four seperare codes are needed, each referring to specific data sets. The R-code below extracts and saves the required data from the API and does some minor reformatting of the information before saving the downloaded data in a series of .csv files (each named after the relevant database code). 
+For the data I want to analyse - related to unemployment, gross domestic product (GDP) and consumer prices (including associated expenditure weights) - four seperate codes are needed, each referring to specific data sets. The R-code below extracts and saves the required data from the API and does some minor reformatting of the information before saving the downloaded data in a series of .csv files (each named after the relevant database code). 
 
 ```r
 library(dplyr)
@@ -72,4 +72,4 @@ data$geo <-gsub("European Union - 27 countries \\(from 2020\\)","EU27",data$geo)
 Now the data are prepared, it's time to start working on the visualisation, details of which I will post shortly.
     
       
-<a name="myfootnote">*</a>_The UK is no longerformally required to provide data to Eurostat, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1) at the end of 2020.
+<a name="myfootnote">*</a>_The UK is no longer formally required to provide data to Eurostat, following the end of the [Brexit transition period](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/WDN-20200201-1) at the end of 2020.
