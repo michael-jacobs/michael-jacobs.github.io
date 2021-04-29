@@ -17,7 +17,12 @@ author_profile: true
 </script> 
 {% endraw %}
   
-
+  
   In short, I enjoy interpreting statistics and data to tell stories, to help decision makers and to solve real world problems. I am particularly interested in the effective use of data visualisations to inform public opinion, as well as the use of automated data collections from online sources in official statistics.  
-
+ 
+   
+ {% raw %}     
+      <iframe title="Skills audit: Michael Jacobs" aria-label="Dot Plot" id="datawrapper-chart-F12Fl" src="https://datawrapper.dwcdn.net/F12Fl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="784"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+{% endraw %}
 
