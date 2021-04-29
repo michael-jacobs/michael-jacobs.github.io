@@ -7,10 +7,6 @@ tags:
 
 Below are some examples of publicly available documents, articles and research which I have authored/co-authored.
 
-**OECD**  
-<https://www.rstudio.com/resources/cheatsheets/>  
-Includes handy reminders for a range of R libaries, including [Shiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) and [Ggplot2](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
-
 **OECD** 
 Education at a Glance 2017: [United Kingdom Country note](https://www.oecd-ilibrary.org/education/education-at-a-glance-2017/united-kingdom_eag-2017-71-en)
 
