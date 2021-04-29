@@ -10,7 +10,7 @@ author_profile: false
 
 I offer a range of services to organisations who want to gather and eploit new and existing data to provide actionable insights to decision makers.
 
-![Services](/master/assets/images/services.PNG)
+![Services](/assets/images/services.png)
   
     
 Please [contact me](mailto:mjacobsdata@gmail.com) directly to discuss a potential collaboration. 
