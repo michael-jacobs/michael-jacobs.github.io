@@ -10,8 +10,7 @@ author_profile: false
 
 I offer a range of services to organisations who want to gather and eploit new and existing data to provide actionable insights to decision makers.
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-lNgAd" src="https://datawrapper.dwcdn.net/lNgAd/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="493"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+![Services](/master/assets/images/services.PNG)
   
     
-Please [contact me](mailto:mjacobsdata@gmail.com) directly for further details regarding my rates and availability. 
+Please [contact me](mailto:mjacobsdata@gmail.com) directly to discuss a potential collaboration. 
