@@ -16,16 +16,16 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - title: "Data Services"
+   - title: "Reliable"
+    excerpt: "See some examples of projects I have recently undertaken and hear what clients have to say about my work."
+    url: "/recent_projects/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
+ - title: "Data Services"
     excerpt: "I  provide a range of statistical and data analysis services, generating new insights to enable informed decision making.  <br>"
     url: "/services"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - title: "Reliable"
-    excerpt: "See some examples of projects I have recently undertaken and hear what clients have to say about my work."
-    url: "/recent_projects/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
