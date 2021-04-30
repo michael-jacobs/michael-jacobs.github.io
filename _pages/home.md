@@ -25,8 +25,7 @@ feature_row:
     excerpt: "I  provide a range of statistical and data analysis services, generating new insights to enable informed decision making.  <br>"
     url: "/services"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  
+    btn_label: "Learn more" 
 ---
 
 {% include feature_row %}
