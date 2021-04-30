@@ -7,7 +7,7 @@ author_profile: false
 layout: single
 ---
 
-If you would like to discuss a possible collaboration please complete the form below and I will get back to you.
+If you would like to discuss a possible collaboration please send [me an email](mailto:mjacobsdata@gmail.com). Alternatively, complete the form below and I will get back to you with a prompt response.
 
 
 <form
