@@ -8,7 +8,7 @@ author_profile: false
 
 # Services
 
-I offer a range of services to organisations who want to gather and eploit new and existing data to provide actionable insights to decision makers.
+I offer a range of services to organisations who want to gather and exploit new and existing data to provide actionable insights to decision makers.
 
 ![Services](/assets/images/services.png)
   
