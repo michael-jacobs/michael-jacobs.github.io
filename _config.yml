@@ -112,8 +112,9 @@ tag_archive:
   path: /tags/
   
   analytics:
-  provider: "google-gtag"
+  provider: "google"
   google:
     tracking_id: "G-5DPT7JTZR7"
     anonymize_ip: false # default
   
+JEKYLL_ENV=production
