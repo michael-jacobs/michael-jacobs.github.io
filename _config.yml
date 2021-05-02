@@ -113,7 +113,7 @@ tag_archive:
 
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-GMRS2C5389"
     anonymize_ip: false # default
