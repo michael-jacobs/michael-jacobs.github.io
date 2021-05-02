@@ -110,3 +110,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-GMRS2C5389"
+    anonymize_ip: false # default
