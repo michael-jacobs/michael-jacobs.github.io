@@ -113,6 +113,7 @@ tag_archive:
   
   analytics:
   provider: "custom"
+  _includes/analytics-providers/custom.html
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5DPT7JTZR7"></script>
 <script>
