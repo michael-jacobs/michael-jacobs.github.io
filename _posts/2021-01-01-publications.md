@@ -8,7 +8,8 @@ tags:
 Below are some examples of publicly available documents, articles and research which I have authored/co-authored.
 
 **OECD** 
-Education at a Glance 2017: [United Kingdom Country note](https://www.oecd-ilibrary.org/education/education-at-a-glance-2017/united-kingdom_eag-2017-71-en)
+Education at a Glance 2017: United Kingdom Country note  
+[https://www.oecd-ilibrary.org/education/education-at-a-glance-2017/united-kingdom_eag-2017-71-en](https://www.oecd-ilibrary.org/education/education-at-a-glance-2017/united-kingdom_eag-2017-71-en)
 
 Education Indicators in Focus How have teachers’ salaries evolved and how do they compare to those of tertiary-educated workers?
 [https://www.oecd-ilibrary.org/education/how-have-teachers-salaries-evolved-and-how-do-they-compare-to-those-of-tertiary-educated-workers_b5f69f4c-en]([https://www.oecd-ilibrary.org/education/how-have-teachers-salaries-evolved-and-how-do-they-compare-to-those-of-tertiary-educated-workers_b5f69f4c-en])
@@ -45,5 +46,7 @@ Two-thirds of job cuts hit poorest by Michael Jacobs and Brian Groom (JUN 2009)
 Spending: Brakes applied in North America by Michael Jacobs (MAY 2009)
 [https://www.ft.com/content/cac169c6-3b64-11de-ba91-00144feabdc0](https://www.ft.com/content/cac169c6-3b64-11de-ba91-00144feabdc0)
 
+**Office for National Statistics**  
+Regional Trends 2006: Deprivation and ethnicity in England - a regional perspective by Jonathan Tinsley & Michael Jacobs
+![Regional Trends 39](https://michael-jacobs.github.io/assets/images/23_RT39_Article 3.pdf)
 
-Office for National Statistics: Regional Trends 2006: Deprivation and ethnicity in England - a regional perspective by Jonathan Tinsley & Michael Jacobs
