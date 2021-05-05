@@ -48,5 +48,5 @@ Spending: Brakes applied in North America by Michael Jacobs (MAY 2009)
 
 **Office for National Statistics**  
 Regional Trends 2006: Deprivation and ethnicity in England - a regional perspective by Jonathan Tinsley & Michael Jacobs
-![Regional Trends 39](https://michael-jacobs.github.io/assets/images/23_RT39_Article 3.pdf)
+[Regional Trends 39](https://michael-jacobs.github.io/assets/images/23_RT39_Article 3.pdf)
 
