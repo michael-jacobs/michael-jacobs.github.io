@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "European Economic Indicators - tracking the impact of COVID19"
 
 tags:
   - Shiny
