@@ -9,7 +9,8 @@ layout: single
 
 Below are some recent examples of my work and testimonials from clients. 
 
-## World Animal Health Organisation (OIE) *MAR 2020 – JULY 2020*
+## World Animal Health Organisation (OIE) 
+*(MAR 2020 – JULY 2020)*
 Working as part of a small team of consultants I lead work to build, clean, analyse and quality assure a database of indicators on performance of veterinary services, including:
 
 * Automated aggregation of survey data stored in a large number of excel spreadsheets with multiple workbooks
@@ -19,10 +20,9 @@ Working as part of a small team of consultants I lead work to build, clean, anal
 
 The resulting single, centralised database enabled greater comparability and analytical use of the OIE’s existing data, with suggested improvements to survey instruments expect to improve the quality of data collected in the future. 
 
-
 ## The Organisation for Economic Cooperation and Development (OECD)
-
-### Public Governance directorate *(MAR 2020 – OCT 2020)*
+### Public Governance directorate 
+*(MAR 2020 – OCT 2020)*
 I managed and analysed a series of pilot surveys conducted internationally to assess factors that impact on the engagement of National Civil Servants administering European Union Development funds:
 * Designed, implemented and tested online multi-lingual survey in collaboration with OECD staff and representatives of national administrations. Administered surveys, monitoring participation rates on an on-going basis. 
 * Developed automated analysis tools, aggregating survey results according to main drivers of staff engagement, examining linkages between engagement and performance.
@@ -31,7 +31,7 @@ I managed and analysed a series of pilot surveys conducted internationally to as
 
 > Michael added much value to our project analysing employee data in three countries. He provided insights into our methods and results, was extremely 
 > responsive to changing needs and requests, and delivered high quality analysis. The project would not have been possible without Michael's contributions and
-> I would recommend him without hesitation.
-*Natalia Nolan, Policy Analyst at OECD.*
+> I would recommend him without hesitation. 
+**Natalia Nolan, Policy Analyst at OECD**
 
 
