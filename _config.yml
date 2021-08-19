@@ -89,10 +89,10 @@ defaults:
   - scope:
       path: ""
       type: posts
-      class: wide
     values:
       layout: single
       author_profile: false
+      class: wide
       read_time: true
       comments: true
       share: true
@@ -101,8 +101,8 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-      class: wide
     values:
+      class: wide
       layout: single
       author_profile: true
 
