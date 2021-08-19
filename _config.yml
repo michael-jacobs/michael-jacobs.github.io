@@ -89,6 +89,7 @@ defaults:
   - scope:
       path: ""
       type: posts
+      class: wide
     values:
       layout: single
       author_profile: false
@@ -100,6 +101,7 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+      class: wide
     values:
       layout: single
       author_profile: true
