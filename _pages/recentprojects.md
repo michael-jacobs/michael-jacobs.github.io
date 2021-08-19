@@ -32,7 +32,6 @@ I managed and analysed a series of pilot surveys conducted internationally to as
 > Michael added much value to our project analysing employee data in three countries. He provided insights into our methods and results, was extremely 
 > responsive to changing needs and requests, and delivered high quality analysis. The project would not have been possible without Michael's contributions and
 > I would recommend him without hesitation. 
-
 **Natalia Nolan, Policy Analyst at OECD**
 
 
