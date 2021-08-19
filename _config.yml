@@ -92,7 +92,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      class: wide
+      classes: wide
       read_time: true
       comments: true
       share: true
@@ -101,9 +101,9 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-    values:
-      class: wide
+    values:   
       layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
