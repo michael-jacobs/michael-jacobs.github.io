@@ -22,7 +22,7 @@ Working as part of a small team of consultants I lead work to build, clean, anal
 The resulting single, centralised database enabled greater comparability and analytical use of the OIE’s existing data, with suggested improvements to survey instruments expect to improve the quality of data collected in the future. 
 
 ## The Organisation for Economic Cooperation and Development (OECD)
-**Public Governance directorate** 
+**Public Governance directorate**  
 *(MAR 2020 – OCT 2020)*
 I managed and analysed a series of pilot surveys conducted internationally to assess factors that impact on the engagement of National Civil Servants administering European Union Development funds.
 
