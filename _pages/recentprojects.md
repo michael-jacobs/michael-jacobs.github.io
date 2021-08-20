@@ -24,8 +24,8 @@ I managed and analysed a series of pilot surveys conducted internationally to as
 > I would recommend him without hesitation." 
 **Natalia Nolan, Policy Analyst at OECD**
 
-**International Service for Remuneration and Pensions *(MAR 2020 – APR 2021)***
+**International Service for Remuneration and Pensions *(MAR 2020 – APR 2021)***  
 Working in collaboration with ISRP to assist NATO with the technical implementation of a new salary scale for civilian staff. I modelled the projected financial implications and developed a Shiny based online interactive salary calculator to assist communication of the new system to staff.
 
-**Directorate for Education and Skills *(DEC 2020 – March 2021)***
+**Directorate for Education and Skills *(DEC 2020 – March 2021)***  
 In my capacity as a consultant, I was given responsibility for the development of indicators on Early Childhood Education and Care (ECEC). The overall aim of this work was to enhance quality control and comparability of data gathered from OECD countries, to ensure harmonisation in the understanding, interpretability, and analysis of the related indicators. This involved working closely with various working groups, to present, develop and modify a series of proposals in relation to ECEC indicators to published in [Education at a Glance](https://www.oecd.org/education/education-at-a-glance/). This work resulted in the production of a paper which I drafted and presented. 
