@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Michael Jacobs  <br>Data & Statistics"
+title: "Contact"
 header: 
    overlay_image: assets/images/jan_huber.jpg
 author_profile: false
