@@ -1,12 +1,10 @@
 ---
 permalink: /services/
-title: "Michael Jacobs  <br>Data & Statistics"
+title: "Services"
 header: 
    overlay_image: assets/images/jan_huber.jpg
 author_profile: false
 ---
-
-# Services
 
 I offer a range of services to organisations who want to gather and exploit new and existing data to provide actionable insights to decision makers.
 
