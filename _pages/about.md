@@ -1,14 +1,13 @@
 ---
 layout: single
 permalink: /about/
-title: "About Me"
+title: "About"
 header: 
    overlay_image: assets/images/jan_huber.jpg
 author_profile: true   
 
 
 ---
-# About
 
   I am an experienced statistician and data professional, with a career spanning close to 20 years, encompassing the UK Government Statistical Service, the Financial Times, the United Nations and the OECD. Since January 2020 I have been working as an independent consultant from Barcelona, with a focus on official statistics, international comparisons and the efficient processing and analysis of data.  
 
