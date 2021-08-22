@@ -1,5 +1,5 @@
 ---
-title: "Michael Jacobs  <br>Data & Statistics"
+title: "Independent consultant, specialised in the <br>efficient analysis and interpretation of data"
 layout: splash
 permalink: /
 hidden: true
@@ -7,8 +7,6 @@ author_profile: false
 header:
   overlay_image: /assets/images/jan_huber.jpg
 
-
-excerpt: Independent consultant, specialised in the <br>efficient analysis and interpretation of data
 
 feature_row:
   - title: "Reliable"
