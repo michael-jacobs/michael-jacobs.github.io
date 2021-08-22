@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "Michael Jacobs  <br>Data & Statistics"
 header: 
-   overlay_image: assets/images/levi-midnight-logo.jpg
+   overlay_image: assets/images/jane_huber.jfif
 author_profile: true   
 
 
