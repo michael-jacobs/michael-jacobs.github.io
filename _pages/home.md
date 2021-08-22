@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 author_profile: false
 header:
-  overlay_image: /assets/images/levi-midnight-logo.jpg
+  overlay_image: /assets/images/jan_huber.jpg
 
 
 excerpt: Independent consultant, specialised in the <br>efficient analysis and interpretation of data
