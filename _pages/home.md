@@ -7,7 +7,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/jan_huber.jpg
 
-excert : "Independent consultant, specialised in the <br>efficient analysis and interpretation of data"
+excerpt : "Independent consultant, specialised in the <br>efficient analysis and interpretation of data"
 
 feature_row:
   - title: "Reliable"
