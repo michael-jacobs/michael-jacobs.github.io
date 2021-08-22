@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Michael Jacobs"
 layout: splash
 permalink: /
 hidden: true
