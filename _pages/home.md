@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Independent consultant"
 layout: splash
 permalink: /
 hidden: true
@@ -7,7 +7,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/jan_huber.jpg
 
-excerpt : "Independent consultant, specialised in the <br>efficient analysis and interpretation of data"
+excerpt : "Specialised in the efficient analysis<br> and interpretation of data"
 
 feature_row:
   - title: "Reliable"
