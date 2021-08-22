@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "Michael Jacobs  <br>Data & Statistics"
 header: 
-   overlay_image: assets/images/jane_huber.jpg
+   overlay_image: assets/images/jan_huber.jpg
 author_profile: true   
 
 
