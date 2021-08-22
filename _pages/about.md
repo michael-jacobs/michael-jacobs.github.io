@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "Michael Jacobs  <br>Data & Statistics"
+title: "About Me"
 header: 
    overlay_image: assets/images/jan_huber.jpg
 author_profile: true   
