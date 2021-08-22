@@ -1,6 +1,6 @@
 ---
 permalink: /recent_projects/
-title: "Michael Jacobs  <br>Data & Statistics"
+title: "Recent Projects"
 header: 
    overlay_image: assets/images/jan_huber.jpg
 author_profile: false
@@ -8,7 +8,7 @@ layout: single
 classes: wide
 ---
 
-Below are some recent examples of my work and testimonials from clients. 
+Below are some examples of my work and testimonials from clients. 
 
 ## World Animal Health Organisation (OIE) *(MAR 2020 – JULY 2020)*
 Working as part of a small team of consultants I lead work to build, clean, analyse and quality assure a database of indicators on performance of veterinary services.
