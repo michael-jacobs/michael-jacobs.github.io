@@ -2,7 +2,7 @@
 permalink: /recent_projects/
 title: "Recent Projects"
 header: 
-   overlay_image: assets/images/jan_huber.jpg
+   overlay_image: assets/images/levi-midnight-logo.jpg
 author_profile: false
 layout: single
 classes: wide
@@ -13,7 +13,7 @@ Below are some examples of my work and testimonials from clients.
 ## World Animal Health Organisation (OIE) *(MAR 2020 – JULY 2020)*
 Working as part of a small team of consultants I lead work to build, clean, analyse and quality assure a database of indicators on performance of veterinary services.
 
-The resultant centralised database now serves as a single source of this data, enabling greater comparability and analytical use of the OIE’s existing data. Suggested improvements to survey instruments will also improve the efficiency of collecting data of good quality in the future. 
+The resultant centralised database serves as a powerful data source , enabling greater comparability and analytical use of the OIE’s information. Proposed improvements to survey instruments will also improve the efficiency of collecting data of good quality in the future. 
 
 ## The Organisation for Economic Cooperation and Development (OECD)
 **Public Governance directorate *(MAR 2020 – OCT 2020)***  
