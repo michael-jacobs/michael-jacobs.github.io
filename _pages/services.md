@@ -18,7 +18,7 @@ I can support the dissemination of your results, drafting data-rich analytical t
 {: .notice--info}
 
 **INTERACTIVE DATA VISUALISATIONS**  
-
+Design and implementation of interactive dashboards and graphics that provide the clear messages and actionable conclusions.
 {: .notice--info}
 
 
