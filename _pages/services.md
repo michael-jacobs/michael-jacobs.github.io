@@ -9,13 +9,18 @@ author_profile: false
 I offer a range of services to organisations who want to gather and exploit new and existing data to provide actionable insights to decision makers.
 
 
-**DATA PROCESSING, AUTOMATION & ANALYSIS**   
+**@icon-diagnoses DATA PROCESSING, AUTOMATION & ANALYSIS**   
 From compiling and merging data from disparate sources, to working with very big data sets, I design and implement processes to enable the automation of data cleaning, aggregation and interogation.
 {: .notice--info}
 
-**REPORTING & VISUALISATION**  
-I can support the dissemination of your results, drafting data-rich analytical texts and presentations to communicate key findings effectively to your desired target audience, including the creation of both static and interactive data visualisations.   
+**REPORTING & PRESENTATIONS**  
+I can support the dissemination of your results, drafting data-rich analytical texts and presentations to communicate key findings effectively to your desired target audience.
 {: .notice--info}
+
+**INTERACTIVE DATA VISUALISATIONS**  
+
+{: .notice--info}
+
 
 **STATISTICAL FRAMEWORKS & CONCEPTUALISATION**  
 I have a range of experience dealing with official statistical frameworks and concepts and can advise on the coherence of your data with reference to required standards and definitions. I also design new statistical indicators and KPIs, enabling organisations to measure and monitor the things that matter. 
@@ -38,7 +43,6 @@ I welcome the opportunity to collaborate with other consultants in the field of 
 {: .notice--info}
 
 
-![Services](/assets/images/services.png)
   
     
 Please [contact me](mailto:mjacobsdata@gmail.com) directly to discuss a potential collaboration. 
