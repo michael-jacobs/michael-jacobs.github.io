@@ -9,7 +9,7 @@ author_profile: false
 I offer a range of services to organisations who want to gather and exploit new and existing data to provide actionable insights to decision makers.
 
 
-**@icon-diagnoses DATA PROCESSING, AUTOMATION & ANALYSIS**   
+**DATA PROCESSING, AUTOMATION & ANALYSIS**   
 From compiling and merging data from disparate sources, to working with very big data sets, I design and implement processes to enable the automation of data cleaning, aggregation and interogation.
 {: .notice--info}
 
